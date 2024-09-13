@@ -1,0 +1,6 @@
+@HMEDC_HostAddress = http://localhost:5003
+
+GET {{HMEDC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
